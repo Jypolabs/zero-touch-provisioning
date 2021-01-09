@@ -1,8 +1,8 @@
-####Updating JunOS Firmware via DHCP using Python Automation (Zero Touch Provisioning)####
+#### Updating JunOS Firmware via DHCP using Python Automation (Zero Touch Provisioning) ####
 
 This repository contains the code for the following blog post:
 
-#####Summary#####
+##### Summary #####
 
 The code is for updating the firmware of a JunosOS device (specifically the SRX300) with any desired firmware present in the same repository.
 
