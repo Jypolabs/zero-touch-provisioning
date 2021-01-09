@@ -1,6 +1,7 @@
 #### Updating JunOS Firmware via DHCP using Python Automation (Zero Touch Provisioning) ####
 
 This repository contains the code for the following blog post:
+https://jypolabs.com/updating-junos-firmware-via-dhcp-using-python-automation/
 
 ##### Summary #####
 
